@@ -1,0 +1,18 @@
+.postbg {
+    background-color: rgb(202, 205, 205);
+}
+
+.imgProfile {
+    border-radius: 100%;
+}
+
+.shadowPost {
+    -webkit-box-shadow: -6px 4px 27px -11px rgba(0, 0, 0, 0.39);
+    box-shadow: -6px 4px 27px -11px rgba(0, 0, 0, 0.39);
+}
+
+.btnLike {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
